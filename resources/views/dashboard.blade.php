@@ -7,9 +7,7 @@
             <div class="card-header">
                 Fakebook
                 <div class="float-end mt-2">
-                  <a href="/create_post" class="btn btn-primary">
-                    <i class="fas fa-money-check-edit"></i> Create Post
-                  </a>
+                  <a href="/create_post" class="btn btn-primary"> Create Post</a>
                 </div>
             </div>
             <div class="card-body">
