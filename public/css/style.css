@@ -1,0 +1,64 @@
+body{
+background-image: url(../images/op.png);
+background-repeat: no-repeat;
+background-size: cover;
+}
+h2{
+    color: white;
+    font-family: Baskerville Old Face;
+}
+a{
+    font-family:Garamond;
+    font-size:larger;
+}
+.info{
+    margin-top:25%;
+    
+    transform: translateY(-15%);
+}
+.info h1{
+    font-size: 2.5em;
+    font-weight: 1000;
+    color: #f5fffd;
+    letter-spacing: 2px;
+}
+.info p{
+    font-family:Garamond;
+    font-size: 1.5em;
+    font-weight: 200;
+    color: #ffffff;
+    letter-spacing: 2px;
+}
+.info a{
+    font-family:Garamond;
+    margin-left:50%;
+    transform: translateX(-50%);
+    color: #fff;
+    background: rgb(23, 25, 51);
+    padding:6px 12px; 
+    font-size: 1em;
+    font-weight: 100;
+}
+.info a:hover{
+    background: #f5f5f7;
+}
+.card{
+height: 10rem;
+margin-top: 5rem;
+background-color: rgba(203, 213, 221, 0.5);
+}
+.navbar li a:hover{
+    margin-top: 0.2rem;
+    text-transform: uppercase;
+    font-size: medium;
+
+}
+.dropdown-toggle{
+    color: #f5f5f7;
+}
+.dropdown-toggle:hover{
+    color: #f5f5f7;
+}
+.dropdown-item:hover{
+    background-color: rgba(0, 0, 0, 0.5);
+} 
